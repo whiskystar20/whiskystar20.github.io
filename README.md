@@ -1,14 +1,18 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Order summary card solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -18,13 +22,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+- See hover states for interactive elements
 
 ### Screenshot
 
-![](./schermata-desktop.png)
-![](./schermata-mobile.png)
+![](/src/images/screenshot.png)
+
+#
 
 ## My process
 
@@ -34,7 +38,15 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 
+### What I learned
+
+```
+
+I learned how to work with svg images
+
 ## Author
 
 - Website - [Medea]
 - Frontend Mentor - [@whiskystar20]
+
+```
